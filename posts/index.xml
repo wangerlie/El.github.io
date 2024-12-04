@@ -22,5 +22,12 @@
 &lt;p&gt;This is &lt;strong&gt;LOVE YOU YLY&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>My 1st post</title>
+      <link>https://wangerlie.github.io/posts/test/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://wangerlie.github.io/posts/test/</guid>
+      <description>Desc Text.</description>
+    </item>
   </channel>
 </rss>

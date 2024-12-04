@@ -15,9 +15,9 @@
     <atom:link href="https://wangerlie.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://wangerlie.github.io/test/</link>
+      <link>https://wangerlie.github.io/posts/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://wangerlie.github.io/test/</guid>
+      <guid>https://wangerlie.github.io/posts/test/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
