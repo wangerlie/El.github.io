@@ -4,11 +4,6 @@
     <title>Tags on My New Hugo Site</title>
     <link>https://wangerlie.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
-    <image>
-      <title>My New Hugo Site</title>
-      <url>https://wangerlie.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://wangerlie.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
     <atom:link href="https://wangerlie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
